@@ -1,0 +1,70 @@
+{
+    "packets":[
+        {
+            "title": "Bukhara city",
+            "days": "2 days 3 nights",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. At quidem earum sed. Sint, magnam eligendi!",
+            "price": 610,
+            "km": "210km",
+            "maps": {
+                "from": "!1m18!1m12!1m3!1d191885.59854134795!2d69.11455778327546!3d41.282479929776926!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x38ae8b0cc379e9c3%3A0xa5a9323b4aa5cb98!2z0KLQsNGI0LrQtdC90YIsINCj0LfQsdC10LrQuNGB0YLQsNC9!5e0!3m2!1sru!2s!4v1704786169240!5m2!1sru!2s",
+                "to": "!1m18!1m12!1m3!1d98122.04942945724!2d64.340397049881!3d39.77750716424599!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3f50060e65993cd5%3A0xc87beaf40e48e767!2z0JHRg9GF0LDRgNCwLCDQo9C30LHQtdC60LjRgdGC0LDQvQ!5e0!3m2!1sru!2s!4v1704785742531!5m2!1sru!2s"
+            }
+        },
+        {
+            "title": "Abu Dabi city",
+            "days": "4 days 5 nights",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. At quidem earum sed. Sint, magnam eligendi!",
+            "price": 330,
+            "km": "12343km",
+            "maps": {
+                "from": "!1m18!1m12!1m3!1d191885.59854134795!2d69.11455778327546!3d41.282479929776926!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x38ae8b0cc379e9c3%3A0xa5a9323b4aa5cb98!2z0KLQsNGI0LrQtdC90YIsINCj0LfQsdC10LrQuNGB0YLQsNC9!5e0!3m2!1sru!2s!4v1704786169240!5m2!1sru!2s",
+                "to": "!1m18!1m12!1m3!1d465132.9732988793!2d54.2289615163244!3d24.38647391033954!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3e5e440f723ef2b9%3A0xc7cc2e9341971108!2z0JDQsdGDLdCU0LDQsdC4IC0g0J7QsdGK0LXQtNC40L3QtdC90L3Ri9C1INCQ0YDQsNCx0YHQutC40LUg0K3QvNC40YDQsNGC0Ys!5e0!3m2!1sru!2s!4v1704865233637!5m2!1sru!2s"
+            }
+        },
+        {
+            "title": "Samarkand city",
+            "days": "1 days 2 nights",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. At quidem earum sed. Sint, magnam eligendi!",
+            "price": 430,
+            "km": "910km",
+            "maps": {
+                "from": "!1m18!1m12!1m3!1d191885.59854134795!2d69.11455778327546!3d41.282479929776926!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x38ae8b0cc379e9c3%3A0xa5a9323b4aa5cb98!2z0KLQsNGI0LrQtdC90YIsINCj0LfQsdC10LrQuNGB0YLQsNC9!5e0!3m2!1sru!2s!4v1704786169240!5m2!1sru!2s",
+                "to": "!1m18!1m12!1m3!1d196633.99703657482!2d66.8030777658843!3d39.64057190070248!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3f4d191960077df7%3A0x487636d9d13f2f57!2z0KHQsNC80LDRgNC60LDQvdC0LCDQodCw0LzQsNGA0LrQsNC90LTRgdC60LDRjyDQvtCx0LvQsNGB0YLRjCwg0KPQt9Cx0LXQutC40YHRgtCw0L0!5e0!3m2!1sru!2s!4v1704865311537!5m2!1sru!2s"
+            }
+        },
+        {
+            "title": "Khiva city",
+            "days": "3 days 3 nights",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. At quidem earum sed. Sint, magnam eligendi!",
+            "price": 350,
+            "km": "1120km",
+            "maps": {
+                "from": "!1m18!1m12!1m3!1d191885.59854134795!2d69.11455778327546!3d41.282479929776926!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x38ae8b0cc379e9c3%3A0xa5a9323b4aa5cb98!2z0KLQsNGI0LrQtdC90YIsINCj0LfQsdC10LrQuNGB0YLQsNC9!5e0!3m2!1sru!2s!4v1704786169240!5m2!1sru!2s",
+                "to": "!1m18!1m12!1m3!1d47892.91171386013!2d60.308803593163795!3d41.38913920241504!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x41dfa413ffe48cf9%3A0xcd75f47f7a6dc0cd!2z0KXQuNCy0LAsINCl0L7RgNC10LfQvNGB0LrQsNGPINC-0LHQu9Cw0YHRgtGMLCDQo9C30LHQtdC60LjRgdGC0LDQvQ!5e0!3m2!1sru!2s!4v1704865346055!5m2!1sru!2s"
+            }
+        },
+        {
+            "title": "Tashkent city",
+            "days": "3 days 4 nights",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. At quidem earum sed. Sint, magnam eligendi!",
+            "price": 350,
+            "km": "0km",
+            "maps": {
+                "from": "!1m18!1m12!1m3!1d191885.59854134795!2d69.11455778327546!3d41.282479929776926!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x38ae8b0cc379e9c3%3A0xa5a9323b4aa5cb98!2z0KLQsNGI0LrQtdC90YIsINCj0LfQsdC10LrQuNGB0YLQsNC9!5e0!3m2!1sru!2s!4v1704786169240!5m2!1sru!2s",
+                "to": "!1m18!1m12!1m3!1d98122.04942945724!2d64.340397049881!3d39.77750716424599!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3f50060e65993cd5%3A0xc87beaf40e48e767!2z0JHRg9GF0LDRgNCwLCDQo9C30LHQtdC60LjRgdGC0LDQvQ!5e0!3m2!1sru!2s!4v1704785742531!5m2!1sru!2s"
+            }
+        },
+        {
+            "title": "Dubai city",
+            "days": "4 days 5 nights",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. At quidem earum sed. Sint, magnam eligendi!",
+            "price": 550,
+            "km": "151012km",
+            "maps": {
+                "from": "!1m18!1m12!1m3!1d191885.59854134795!2d69.11455778327546!3d41.282479929776926!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x38ae8b0cc379e9c3%3A0xa5a9323b4aa5cb98!2z0KLQsNGI0LrQtdC90YIsINCj0LfQsdC10LrQuNGB0YLQsNC9!5e0!3m2!1sru!2s!4v1704786169240!5m2!1sru!2s",
+                "to": "!1m18!1m12!1m3!1d462563.0327106585!2d54.89782944320242!3d25.075658397134212!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3e5f43496ad9c645%3A0xbde66e5084295162!2z0JTRg9Cx0LDQuSAtINCe0LHRitC10LTQuNC90LXQvdC90YvQtSDQkNGA0LDQsdGB0LrQuNC1INCt0LzQuNGA0LDRgtGL!5e0!3m2!1sru!2s!4v1704865380833!5m2!1sru!2s"
+            }
+        }
+    ]
+}

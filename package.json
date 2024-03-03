@@ -1,0 +1,30 @@
+{
+  "name": "markups-outing",
+  "version": "1.0.0",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "json-server -p 8080 -- backend/db/db.json",
+    "postinstall": "cd ./test && npm i || true",
+    "test": "cd ./tests && npm run tes  t",
+    "build": "echo \"Dummy build script for Autocode\"",
+    "lint:js": "eslint .",
+    "lint:css": "stylelint \"**/*.css\""
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "json-server": "^1.0.0-alpha.13"
+  },
+  "description": "1. Please, place all your `SCSS` styles to `src/styles` folder.\r 2. The `package.json` file is already created, please don't delete NPM scripts which are already there. This file should look like this when you initiate the project:",
+  "repository": {
+    "type": "git",
+    "url": "https://autocode.git.epam.com/feruz_farxodov/final-project.git"
+  },
+  "devDependencies": {
+    "eslint": "^8.56.0",
+    "eslint-plugin-react": "^7.33.2",
+    "jest": "^29.7.0",
+    "stylelint": "^16.1.0",
+    "stylelint-config-standard": "^36.0.0"
+  }
+}
