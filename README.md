@@ -1,6 +1,6 @@
 # Fundamentals of Web Development Final Project
 
-## ---> Documentation and Task requirements in the main package named Documentation package <---
+## ---> Documentation/Figma link and Task requirements/Answers in the main package named Documentation package <---
 
 ## For running please follow:
 running json-server for as an fake DB 
